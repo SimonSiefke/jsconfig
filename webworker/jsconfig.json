@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "lib": ["esnext", "webworker"],
+    "checkJs": true,
+    "module": "esnext",
+    "types": [],
+    "moduleResolution": "node"
+  },
+  "include": ["src"]
+}
