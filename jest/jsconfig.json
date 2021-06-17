@@ -5,7 +5,8 @@
     "checkJs": true,
     "module": "esnext",
     "types": ["node", "jest"],
-    "moduleResolution": "node"
+    "moduleResolution": "node",
+    "rootDir": "."
   },
-  "include": ["src"]
+  "include": ["src", "test"]
 }
